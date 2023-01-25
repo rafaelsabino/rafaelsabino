@@ -38,6 +38,8 @@ Desenvolvedor Fullstack:
 <!--API GIT STATUS-->
 <img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=rafaelsabino&show_icons=true&include_all_commits=true&count_private=true" alt="relirk"/>
 <img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsabino&layout=compact" />
-
-[![rafaelsabino's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafaelsabino)](https://github.com/anuraghazra/github-readme-stats)
 <!--API GIT STATUS [END]-->
+
+<!--START_SECTION:waka-->
+[![rafaelsabino's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafaelsabino)]
+<!--END_SECTION:waka-->
