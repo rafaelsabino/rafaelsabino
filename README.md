@@ -41,5 +41,5 @@ Desenvolvedor Fullstack:
 <!--API GIT STATUS [END]-->
 <br/>
 <!--START_SECTION:waka-->
-[![rafaelsabino's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafaelsabino)]
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=rafaelsabino" />
 <!--END_SECTION:waka-->
